@@ -18,7 +18,7 @@ export const Tareas = () => {
     };
 
     try {
-      const response = await fetch("https://public-teamtask.onrender.com",{
+      const response = await fetch("https://public-teamtask.onrender.com/tasks",{
         method: "POST",
         headers: {
           "Content-Type": "application/json"
