@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { EspacioDeTrabajo } from "../Componentes/ComponentesDelEntornoDeTrabajo/EspacioDeTrabajo";
 import { Header_inicio } from "../Componentes/ComponentesDelEntornoDeTrabajo/Header_inicio";
-import { Slider_bar } from "../Componentes/ComponentesDelEntornoDeTrabajo/slider_bar";
+import { Slider_bar } from "../Componentes/ComponentesDelEntornoDeTrabajo/Slider_bar";
 
 export default function EntornoDeTrabajo() {
     const [vista, setVista] = useState("Inicio");
