@@ -1,4 +1,4 @@
-import logo_TeamTask from '../assets/logo_teamtask.PNG'
+import logo_TeamTask from '../assets/logo_teamtask.png'
 import '../assets/styles/Seccion_Registro.css'
 
 export default function LoginPag() {
