@@ -1,6 +1,6 @@
 import React from 'react'
 import '../assets/styles/Header.css'
-import logo_teamtask from '../assets/logo teamtask sin palabras.png'
+import logo_teamtask from '../assets/logo_teamtask.png'
 import { useNavigate } from 'react-router-dom'
 
 export const Header_Main = () => {

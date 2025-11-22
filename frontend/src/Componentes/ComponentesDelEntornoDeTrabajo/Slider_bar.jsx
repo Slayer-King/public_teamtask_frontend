@@ -1,5 +1,5 @@
 import React from 'react'
-import logo from '../../assets/logo teamtask sin palabras.png'
+import logo from '../../assets/logo_teamtask.png'
 import { GoHome } from "react-icons/go"
 import { BiTask } from "react-icons/bi"
 import { PiProjectorScreenBold } from "react-icons/pi"

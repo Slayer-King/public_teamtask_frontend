@@ -1,5 +1,5 @@
 import React from 'react'
-import imagTest from '../assets/logo teamtask sin palabras.png'
+import imagTest from '../assets/logo_teamtask.png'
 
 export const Seccion_informativa = () => {
   return (

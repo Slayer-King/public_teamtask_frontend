@@ -1,5 +1,5 @@
 import React from 'react'
-import logo from '../assets/logo teamtask sin palabras.png'
+import logo from '../assets/logo_teamtask.png'
 import '../assets/styles/Seccion_Registro.css'
 
 export const Seccion_Registro = () => {
